@@ -12,9 +12,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. Get the input matrix using np.array()
-2. Find the 2-norm of the matrix using np.linalg.norm()
-3. Print the norm of the matrix in two decimal places.
+1. Start the program import numpy as np.
+2. Write the code appropriately.
+3. Check the code.
 4. Run the code.
 
 ## Program:
